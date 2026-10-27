@@ -421,6 +421,7 @@ This repository focuses on research whose **primary goal** is to **recover or en
 ---
 
 ## 📊 Benchmarks、Study & SoKs
+- [Github-2026] [Blindsight: A regression harness for LLM-assisted binary triage with GhidraMCP; single-model, two-fixture pilot](https://github.com/AlicanAkyol/blindsight).
 - [CSUR-2026] [A Survey of Symbol Name Recovery in Sotware Reverse Engineering](https://dl.acm.org/doi/pdf/10.1145/3844948).
 - [Arxiv-2026] [SoK: AI-Augmented Binary Reversing](http://arxiv.org/abs/2606.17398).
 - [Github-2026] [DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on binaries.](https://github.com/Noelo-Lab/decbench). [[repo](https://github.com/Noelo-Lab/decbench)]
